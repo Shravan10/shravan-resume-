@@ -1,0 +1,18 @@
+My Project Experience
+Jan 2019-Present - Front End Developer
+I have developed Web application in Frontend Technology. The Application is based on the Retail Domain in Healthcare Products. In this project, my Role and Responsibility is to Redesign and Re Developed the existing old portal into new portal development.
+Company: Tata Consultancy Services
+Duration: 2 Years 3 Months
+Technology: HTML5,CSS3,JavaScript,Bootstrap3, Angular JS,Liferay DXP7.2
+
+June 2018-December 2018 - Front End Developer-Intern
+Design & Developed Website Frontend Technology. I am responsible for convert PSD to HTML5 conversion. Design Responsive web Design on all Screens.
+Company: Jaipur Based Startup
+Duration: 6 Months
+Technology: HTML5,CSS3,JavaScript,JQuery,Bootstrap3,PHP,MySQL.
+
+May 2017-July 2017 - Front End Developer-Training
+I have learned basic web designing & development fundamentals in this training.I have learned HTML5,CSS3,JavaScript,JQuery,Bootstrap3,PHP,MYSQL. In this duration, I have also developed a Real-Time Web application project in PHP & My SQL
+Company: Web Tek Labs New Delhi
+Duration : 3 Months
+Technology : HTML5,CSS3,JavaScript,JQuery,Bootstrap3,PHP,MYSQL
