@@ -5,11 +5,6 @@ Company: Tata Consultancy Services
 Duration: 2 Years 3 Months
 Technology: HTML5,CSS3,JavaScript,Bootstrap3, Angular JS,Liferay DXP7.2
 
-June 2018-December 2018 - Front End Developer-Intern
-Design & Developed Website Frontend Technology. I am responsible for convert PSD to HTML5 conversion. Design Responsive web Design on all Screens.
-Company: Jaipur Based Startup
-Duration: 6 Months
-Technology: HTML5,CSS3,JavaScript,JQuery,Bootstrap3,PHP,MySQL.
 
 May 2017-July 2017 - Front End Developer-Training
 I have learned basic web designing & development fundamentals in this training.I have learned HTML5,CSS3,JavaScript,JQuery,Bootstrap3,PHP,MYSQL. In this duration, I have also developed a Real-Time Web application project in PHP & My SQL
